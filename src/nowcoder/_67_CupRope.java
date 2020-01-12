@@ -1,5 +1,3 @@
-package nowcoder;
-
 /**
  * 剪绳子
  * @author Huangting

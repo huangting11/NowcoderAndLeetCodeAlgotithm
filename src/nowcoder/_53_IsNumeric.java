@@ -1,5 +1,3 @@
-package nowcoder;
-
 /**
  * 表示数值的表达式
  * @author Huangting

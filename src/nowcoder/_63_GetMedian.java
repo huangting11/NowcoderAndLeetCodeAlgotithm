@@ -1,5 +1,3 @@
-package nowcoder;
-
 import java.util.PriorityQueue;
 
 /**

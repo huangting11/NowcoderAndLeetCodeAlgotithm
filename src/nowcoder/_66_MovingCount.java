@@ -1,5 +1,3 @@
-package nowcoder;
-
 /**
  * 机器人的运动范围 ->上下左右找，访问过的就不管
  * @author Huangting

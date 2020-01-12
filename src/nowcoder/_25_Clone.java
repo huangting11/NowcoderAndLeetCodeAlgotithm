@@ -1,5 +1,3 @@
-package nowcoder;
-
 /**
  * 复杂链表的复制
  * @author Huangting

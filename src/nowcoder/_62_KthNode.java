@@ -1,5 +1,3 @@
-package nowcoder;
-
 /**
  * 二叉搜索树的第k个节点
  * @author Huangting

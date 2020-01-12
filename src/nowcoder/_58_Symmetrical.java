@@ -1,5 +1,3 @@
-package nowcoder;
-
 /**
  * nowCoder 对称的二叉树
  * @author Huangting
