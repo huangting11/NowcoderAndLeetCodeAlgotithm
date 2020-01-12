@@ -11,6 +11,7 @@ public class _25_Clone {
     public static void main(String[] args) {
         _25_Clone clone = new _25_Clone();
         RandomListNode a = clone.new RandomListNode(1);
+        System.out.println(11);
 
 
         RandomListNode a1 = clone.new RandomListNode(1);
