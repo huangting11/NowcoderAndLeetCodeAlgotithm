@@ -6,6 +6,7 @@
  */
 public class _25_Clone {
 
+    public final int bbb = 100;
     public static void main(String[] args) {
         _25_Clone clone = new _25_Clone();
         RandomListNode a = clone.new RandomListNode(1);

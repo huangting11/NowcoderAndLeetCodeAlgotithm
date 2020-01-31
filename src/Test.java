@@ -8,6 +8,8 @@ import java.util.*;
 public class Test {
 
     public static void main(String[] args) {
+         float a = 1.1f;
+        System.out.println(a);
         Test t = new Test();
         List<Integer[]> points = new ArrayList();
         points.add(new Integer[]{6,0});
